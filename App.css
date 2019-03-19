@@ -1,0 +1,21 @@
+body{
+  margin: 0px;
+  width: 200vh;
+  height: 100vh;
+}
+
+#root{
+  height: 100%;
+}
+
+
+.map{
+  height: 100%;
+}
+
+.message-form{
+  z-index: 999;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
